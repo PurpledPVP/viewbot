@@ -1,6 +1,6 @@
 updating...
 
-<h2 align="center">server: <a href="https://discord.gg/onlp">discord.gg/onlp</a></h2>
+<h2 align="center">server: <a href="https://discord.gg/QrFMNNRK38">https://discord.gg/QrFMNNRK38</a></h2>
 
 &emsp;
 
